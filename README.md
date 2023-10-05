@@ -24,7 +24,7 @@ print(norm_of_matrix)
 '''
 Program to find 2-norm of a matrix.
 Developed by: Ganesh R
-RegisterNumber: 22009090
+RegisterNumber: 212222240029
 '''
 import numpy as np
 mat=np.array(eval(input()))
@@ -44,20 +44,15 @@ print(norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>![output](./Web%20capture_18-1-2023_153445_lms.ai.saveetha.ac.in.jpeg)
+![output](./MA1.png)
 <br>
 <br>
 
 ### 2-Norm of a Matrix
-<br>![output](./Web%20capture_18-1-2023_153459_lms.ai.saveetha.ac.in.jpeg)
-<br>
-<br>
+![output](./MA2.png)
 
 ### Infinity Norm of a Matrix
-<br>![output](./Web%20capture_18-1-2023_153513_lms.ai.saveetha.ac.in.jpeg)
-
-<br>
-<br>
+![output](./MA3.png)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
